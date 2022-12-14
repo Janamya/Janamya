@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lamija</h1>
-<h3 align="center">A quality assurance automation engineer eager to learn more and more every day :D</h3>
+<h3 align="center">A quality assurance automation engineer eager to learn more and more every day</h3>
 
 - 🔭 I’m currently working on updgrading my skills and knowledge in JS and automation field
 
-- 🌱 I’m currently learning **Java Script and automation with WebDriverIo**
+- 🌱 I’m currently learning **Java Script and automation using WebDriverIo**
 
 - 📫 How to reach me **lamija.pehilj@gmail.com**
 
