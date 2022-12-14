@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lamija</h1>
 <h3 align="center">A quality assurance automation engineer eager to learn more and more every day :D</h3>
 
-- 🔭 I’m currently working on [Trello Project](https://github.com/Janamya/exercises/commit/96221922aa6bc801b472f4b684848a961f1fac49)
+- 🔭 I’m currently working on updgrading my skills and knowledge in JS and automation field
 
 - 🌱 I’m currently learning **Java Script and automation with WebDriverIo**
 
