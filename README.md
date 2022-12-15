@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on updgrading my skills and knowledge in JS and automation field
 
-- 🌱 I’m currently learning **Java Script and automation using WebDriverIo**
+- 🌱 I’m currently learning **Java Script and automation testing using WebDriverIo**
 
 - 📫 How to reach me **lamija.pehilj@gmail.com**
 
